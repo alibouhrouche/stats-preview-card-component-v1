@@ -103,7 +103,8 @@ main {
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-areas: "text image";
-    max-width: 90vw;
+    max-width: 800px;
+    width: 90vw;
   }
 
   .card-content {
